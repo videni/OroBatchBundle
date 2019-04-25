@@ -5,7 +5,7 @@
     "keywords": ["BAP", "Batch", "Job", "Reader", "Writer", "Processor"],
     "license": "MIT",
     "require": {
-        "php": "7.1.*",
+        "php": "^7.1",
         "symfony/framework-bundle": "^3.4|^4.0",
         "oro/config": "^1.0@dev"
     },
